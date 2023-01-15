@@ -1,5 +1,3 @@
-/* customising the page with css */
-
 html {
   scroll-behavior: smooth;
 }
@@ -16,7 +14,10 @@ a {
   display: none;
 }
 
-.card-category, .section-tagline {
-  color: #D73953
+.card-category {
+  color: #d73953;
 }
 
+.section-tagline {
+  color: #d73953;
+}
