@@ -1,0 +1,5 @@
+/* customising the page with css */
+
+html {
+  scroll-behavior: smooth;
+}
